@@ -10,7 +10,7 @@
 - [License](#license)
 
 ## Description 
-Hungry Mikey is an **interactive game for children ages (age range here)** that helps them to learn about nutritional values and eating a balanced diet. 
+Hungry Mikey is an **interactive game for children ages 2-6** that helps them to learn about nutritional values and eating a balanced diet. 
 
 Using this game, kids will be able to choose from some options what they would like Mikey to eat, and then receive **adaptive feedback based on their choices**. 
 
